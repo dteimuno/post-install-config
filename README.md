@@ -33,6 +33,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 Log in to osTicket in admin role:
+<img width="994" alt="image" src="https://github.com/dteimuno/post-install-config/assets/169619672/a1fd63c3-737f-4398-97e5-6113521ae0c9">
+<img width="1190" alt="image" src="https://github.com/dteimuno/post-install-config/assets/169619672/b2dad0d0-b7af-49aa-ba36-0efe47108c47">
+
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
